@@ -1,5 +1,9 @@
 # Cybersecurity Incident Report: Network Traffic Analysis
 
+<div align="right">
+<a href="./README-PT.md">Ver em Português 🇧🇷</a>
+</div>
+
 ### Project Context
 This project is a practical case study developed as part of the <a href="https://www.coursera.org/google-certificates/cybersecurity-certificate">Google Cybersecurity Professional Certificate</a>. It documents the analysis of a simulated incident where users were unable to access the website `www.yummyrecipesforme.com`, encountering a "destination port unreachable" error.
 
