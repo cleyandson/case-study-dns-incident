@@ -6,6 +6,7 @@
 
 ### Contexto do Projeto
 Este projeto é um case de estudo prático desenvolvido como parte do <a href="https://www.coursera.org/google-certificates/cybersecurity-certificate">Certificado Profissional de Cibersegurança do Google</a>. Ele documenta a análise de um incidente simulado onde usuários não conseguiam acessar o site `www.yummyrecipesforme.com`, encontrando o erro "destination port unreachable".
+
 O incidente começou quando múltiplos clientes relataram que não conseguiam acessar o site `www.yummyrecipesforme.com`, recebendo uma mensagem de erro de "porta de destino inacessível". Como analista de segurança cibernética, minha tarefa foi investigar a causa raiz do problema através da análise de tráfego de rede.
 
 ### Ferramentas e Tecnologias
